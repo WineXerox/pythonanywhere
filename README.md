@@ -1,2 +1,2 @@
 # pythonanywhere
-เว็บ django เก็บ web site for winetanapol.pythonanywhere.com
+เว็บ django เก็บ web site for http://winetanapol.pythonanywhere.com/
